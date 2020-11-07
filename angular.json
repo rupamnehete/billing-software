@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BillingSoftware"
+    }
+  },
+  "defaultProject": "BillingSoftware",
+  "cli": {
+    "analytics": "6674eac2-3cff-441b-91c4-fe4cb448c2a2"
+  }
 }
